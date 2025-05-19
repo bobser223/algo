@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "e70b1af6913f00da",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c7d6a60c749d276",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ca8db398a3f2427",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "exam/Algo/39. Зв'язність орієнтованих графів.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "39. Зв'язність орієнтованих графів"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8afa555b89feebad",
+    "type": "split",
+    "children": [
+      {
+        "id": "56b41f8474b47bc7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eddbced4b0b7d1d4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1c22a028856bd9b2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "239ab4940adf2990",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bf46f68f048516f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4ed6682bca919ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2be5ed3b6b57060a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "exam/Algo/39. Зв'язність орієнтованих графів.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 39. Зв'язність орієнтованих графів"
+            }
+          },
+          {
+            "id": "50881558d2eff0f0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "exam/Algo/39. Зв'язність орієнтованих графів.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 39. Зв'язність орієнтованих графів"
+            }
+          },
+          {
+            "id": "db3b38d5a5880d79",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2eaf062446337460",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "exam/Algo/39. Зв'язність орієнтованих графів.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 39. Зв'язність орієнтованих графів"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9ca8db398a3f2427",
+  "lastOpenFiles": []
+}
