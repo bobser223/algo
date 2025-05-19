@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "exam/Algo/22. Список з поточним елементом.md",
+                "file": "exam/Algo/09. Бульбашкове сортування.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "22. Список з поточним елементом"
+              "title": "09. Бульбашкове сортування"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "exam/Algo/22. Список з поточним елементом.md",
+                "file": "exam/Algo/09. Бульбашкове сортування.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 22. Список з поточним елементом"
+              "title": "Backlinks for 09. Бульбашкове сортування"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "exam/Algo/22. Список з поточним елементом.md",
+                "file": "exam/Algo/09. Бульбашкове сортування.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 22. Список з поточним елементом"
+              "title": "Outgoing links from 09. Бульбашкове сортування"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "exam/Algo/22. Список з поточним елементом.md",
+                "file": "exam/Algo/09. Бульбашкове сортування.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 22. Список з поточним елементом"
+              "title": "Outline of 09. Бульбашкове сортування"
             }
           }
         ]
@@ -170,8 +170,9 @@
   },
   "active": "9ca8db398a3f2427",
   "lastOpenFiles": [
-    "Sort/Сортування вибором/idea.md",
     "exam/Algo/39. Зв'язність орієнтованих графів.md",
+    "exam/Algo/22. Список з поточним елементом.md",
+    "Sort/Сортування вибором/idea.md",
     "exam/Algo/38. Зв'язність неорієнтованих графів.md",
     "exam/Algo/30. Двійкова купа.md",
     "exam/Algo/17. Застосування стеку 2.md"
