@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "exam/Algo/40. Лабіринти.md",
+                "file": "exam/27. Бінарні дерева.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "40. Лабіринти"
+              "title": "27. Бінарні дерева"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "exam/Algo/40. Лабіринти.md",
+                "file": "exam/27. Бінарні дерева.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 40. Лабіринти"
+              "title": "Backlinks for 27. Бінарні дерева"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "exam/Algo/40. Лабіринти.md",
+                "file": "exam/27. Бінарні дерева.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 40. Лабіринти"
+              "title": "Outgoing links from 27. Бінарні дерева"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "exam/Algo/40. Лабіринти.md",
+                "file": "exam/27. Бінарні дерева.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 40. Лабіринти"
+              "title": "Outline of 27. Бінарні дерева"
             }
           }
         ]
@@ -170,13 +170,21 @@
   },
   "active": "9ca8db398a3f2427",
   "lastOpenFiles": [
-    "exam/Algo/36. Хвильовий алгоритм.md",
-    "exam/Algo/40. Лабіринти.md",
-    "exam/Algo/32. Дерево відрізків.md",
+    "exam/Algo/26. Алгоритм пошуку в ширину у дереві.md",
+    "exam/27. Бінарні дерева.md",
+    "exam/Algo/25. Алгоритм пошуку в глибину у дереві.md",
     "exam/Algo/35. Алгоритм пошуку в ширину у графі.md",
+    "exam/Algo/34. Алгоритм пошуку в глибину у графі.md",
+    "exam/Algo/24. Дерева.md",
+    "exam/Algo/Untitled",
+    "exam/24. Дерева.md",
+    "exam/Algo/33. Графи.md",
+    "exam/Algo/19-20. Дек.md",
+    "exam/Algo/32. Дерево відрізків.md",
     "exam/Algo/38. Зв'язність неорієнтованих графів.md",
     "exam/Algo/39. Зв'язність орієнтованих графів.md",
-    "exam/Algo/34. Алгоритм пошуку в глибину у графі.md",
+    "exam/Algo/40. Лабіринти.md",
+    "exam/Algo/36. Хвильовий алгоритм.md",
     "exam/Algo/09. Бульбашкове сортування.md",
     "trees/algorithms on trees.md",
     "trees/Classic tree.md",
