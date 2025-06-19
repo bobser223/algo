@@ -1,0 +1,85 @@
+
+```c++
+#include <iostream>  
+#include <vector>  
+#include <queue>  
+#include <stack>  
+  
+#define EMPTY {-1, -1}  
+#define WALL -1  
+  
+  
+  
+  
+using namespace std;  
+  
+vector<vector<int>> maze = {  
+        {WALL, 0, WALL},  
+        {WALL, 0, WALL}  
+};  
+  
+struct coord{  
+    int x, y;  
+    bool operator == (coord& other){  
+        if (this->x == other.x && this->y == other.y)  
+            return true;  
+        return false;  
+    }};  
+  
+  
+  
+vector<coord> directions = {{1, 0}, {-1, 0}, {0, 1}, {0, -1}};  
+  
+  
+std::vector<coord> wave_way(vector<vector<int>>& maze, coord start, coord end) {  
+    int n = maze.size();  
+    int m = maze[0].size();  
+    queue<coord> q;  
+  
+    std::vector<std::vector<bool>> visited(n, std::vector<bool>(m, false));  
+    std::vector<std::vector<coord>> parent(n, std::vector<coord>(m, EMPTY));  
+  
+    visited[start.x][start.y] = true;  
+    q.push(start);  
+  
+    while (!q.empty()){  
+        auto [x, y] = q.front(); q.pop();  
+  
+        for (auto [i, j]: directions){  
+            int xi = x+i;  
+            int yj= y+j;  
+  
+            if (xi < 0 || xi >= n || yj < 0 || yj >= m)  
+                continue;  
+  
+            if (visited[xi][yj] || maze[xi][yj] == WALL)  
+                continue;  
+  
+            parent[xi][yj] = {x, y};  
+            visited[xi][yj] = true;  
+  
+            q.push({xi, yj});  
+  
+        }    }  
+    if (!visited[end.x][end.y]){  
+        // exeption  
+    }  
+  
+    stack<coord> st;  
+    coord curr = end;  
+    while(curr != start){  
+        st.push(curr);  
+        curr = parent[curr.x][curr.y];  
+    }    st.push(start);  
+  
+  
+    vector<coord> way;  
+  
+    while(!st.empty()){  
+        way.push_back(st.top());  
+        st.pop();  
+    }  
+    return way;  
+  
+}
+```

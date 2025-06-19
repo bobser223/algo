@@ -62,11 +62,9 @@ class BinaryTree:
 		
 		if left is not None:
 		
-		self.setLeft(left) # встановлюємо лівого сина
-		
+			self.setLeft(left) # встановлюємо лівого сина
 		if right is not None:
-		
-		self.setRight(right) # встановлюємо правого сина
+			self.setRight(right) # встановлюємо правого сина
 	def empty(self):
 
 		""" Перевіряє чи дерево порожнє, чи має воно навантаження та дітей
@@ -77,9 +75,9 @@ class BinaryTree:
 		
 		return (self.mItem is None
 		
-		and self.mLeftChild is None
+			and self.mLeftChild is None
 		
-		and self.mRightChild is None)
+			and self.mRightChild is None)
 		
 	def item(self):
 		
